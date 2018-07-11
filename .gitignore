@@ -1,0 +1,7 @@
+*.VC
+*.sln
+*.db
+*.opendb
+*.filters
+x64/
+Debug/
